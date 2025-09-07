@@ -15,7 +15,7 @@ print("Original matrix:")
 for row in matrix:
     print(row)
 
-value = 4
+value = 8
 result = search_value(matrix, value)
 if result:
     row, col = result
