@@ -1,4 +1,4 @@
-# PROGRAMA: Convertidor de Temperatura Celsius a Fahrenheit
+#  Convertidor de Temperatura Celsius a Fahrenheit
 
 # DESCRIPCIÓN: Este programa recibe una temperatura en grados Celsius, realiza la conversión y determina si el clima es "caluroso".
 
