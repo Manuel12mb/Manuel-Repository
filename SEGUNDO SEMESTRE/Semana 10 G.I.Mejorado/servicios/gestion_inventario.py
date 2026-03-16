@@ -1,5 +1,5 @@
 import os  # MEJORA: Importado para verificar si el archivo existe antes de leerlo
-from modelos.producto import Producto
+from modelos import Producto
 
 
 class Inventario:

@@ -1,4 +1,4 @@
-from modelos.archivo_log import ArchivoLog
+from modelos import ArchivoLog
 
 
 def registrar_evento(nombre_archivo, mensaje):

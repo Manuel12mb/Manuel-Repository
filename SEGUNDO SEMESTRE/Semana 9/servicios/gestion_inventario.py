@@ -1,4 +1,4 @@
-from modelos.producto import Producto
+from modelos import Producto
 
 
 class Inventario:
