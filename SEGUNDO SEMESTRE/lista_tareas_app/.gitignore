@@ -1,0 +1,13 @@
+# Excluir carpeta de PyInstaller
+build/
+
+# Excluir archivos temporales de Python
+__pycache__/
+
+# Excluir el entorno virtual si lo tienes
+venv/
+
+# Excluir configuraciones de PyCharm
+.idea/
+
+
