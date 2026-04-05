@@ -1,0 +1,11 @@
+# Ignorar carpetas generadas por PyInstaller
+build/
+dist/
+*.spec
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar configuración de PyCharm
+.idea/
